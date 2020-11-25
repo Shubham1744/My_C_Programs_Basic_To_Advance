@@ -3,7 +3,8 @@ Write a program which accept number from user and display its factors in
 reverse order.
 */
 
-#include<stdio.h>
+#include "Header.h"
+
 void FactRev(int iNo)
 {
     int iCnt = 0;
@@ -25,12 +26,4 @@ void FactRev(int iNo)
                printf("%d\t",iCnt);
        }
     }
-}
-int main()
-{
-	int iValue = 0;
-	printf("Enter number");
-	scanf("%d",&iValue);
-	FactRev(iValue);
-	return 0;
 }
