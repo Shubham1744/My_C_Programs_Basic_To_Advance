@@ -1,0 +1,12 @@
+Running makefile in terminal :
+
+step 1 : open terminal
+
+step 2 :set path to File_name
+
+step 3 : run these command :
+          make Build  //to build program
+
+          make run    //to run
+
+          make clean // to clean all executable file
