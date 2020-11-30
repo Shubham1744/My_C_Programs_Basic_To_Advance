@@ -1,0 +1,9 @@
+step to execute :
+
+step 1 : compile Read.c with command
+         gcc Read.c -o myexe
+
+step 2 : run executable
+         ./myexe FileName.ext
+         e.g. : ./myexe Input.txt
+         output : Hello World

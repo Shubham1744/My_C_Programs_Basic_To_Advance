@@ -1,1 +1,11 @@
 Write a program which is used to add two numbers.
+
+step to execute :
+
+step 1 : compile Addition.c with command
+         gcc Prog1.c -o myexe
+
+step 2 : run executable
+         ./myexe arg1 arg2
+         e.g. : ./myexe 10 20
+         output : 30

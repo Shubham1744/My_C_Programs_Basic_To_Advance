@@ -1,0 +1,9 @@
+step of execution :
+
+step 1 : compile Open.c with command
+         gcc Open.c -o myexe
+
+step 2 : run executable
+         ./myexe Filename.ext
+         e.g. : ./myexe Input.txt
+         output : File opened successfully.
