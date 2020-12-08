@@ -1,0 +1,11 @@
+write a program to read data till end of file
+
+step of execution :
+
+step 1 : compile Open.c with command
+         gcc Open.c -o myexe
+
+step 2 : run executable
+         ./myexe Filename.ext
+         e.g. : ./myexe Input.txt
+         output : Data printed from file till End of File
